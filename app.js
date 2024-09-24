@@ -1,4 +1,4 @@
-const apiKey = 'api key'; 
+const apiKey = 'YOUR_API_KEY'; //Replace with your actual WeatherAPI key
 const searchBtn = document.getElementById('search-btn');
 const cityInput = document.getElementById('city-input');
 const weatherResult = document.getElementById('weather-result');
